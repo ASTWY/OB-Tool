@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<OB>
+    <!-- 版本更新相关 -->
+    <Update>
+        <Ver>2.6.6.3</Ver>
+        <Announcement>2.6.6.3更新\n1、修复一个bug，该bug可导致LOL版本更新后无法显示正确的版本</Announcement>
+        <Resources>
+            <OB小工具.exe url="http://d0.ananas.chaoxing.com/download/5932ec71be90234e3bbeb11a59311624?fn=OB%E5%B0%8F%E5%B7%A5%E5%85%B7"/>
+            <!-- <test.dll url="http://test.dll"/> -->
+        </Resources>
+    </Update>
+    <!-- 启动时显示公告 -->
+    <info>
+        <bool>true</bool>        <!-- false/true -->
+        <Announcement>本工具有一些小BUG，但作者暂时没有精力修复，所以推荐使用简洁版或者ROFL小工具
+关于CSAPI弹红报错，请用非国服客户端进行回放</Announcement>
+    </info>
+</OB>
