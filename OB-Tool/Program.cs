@@ -19,7 +19,7 @@ namespace OB_Tool
         public static string ini_path = Path.GetDirectoryName(Process.GetCurrentProcess().MainModule.FileName) + "\\cfg.ini";
         public static string ico_path = Environment.GetFolderPath(Environment.SpecialFolder.LocalApplicationData) + "\\astwy\\rofl_ico.png";
         public static string ver = FileVersionInfo.GetVersionInfo(Process.GetCurrentProcess().MainModule.FileName).FileVersion;
-        public static string up_url = "https://cdn.jsdelivr.net/gh/ASTWY/OB-Tool@master/OB-Tool/OB-Tool/Resources/update.json";
+        public static string up_url = "https://cdn.jsdelivr.net/gh/ASTWY/OB-Tool@master/OB-Tool/Resources/update.json";
 
         static void Main(string[] args)
         {
